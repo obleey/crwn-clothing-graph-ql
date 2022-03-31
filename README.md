@@ -36,6 +36,7 @@ Clothing shop made using React & firebase with Stripe payments implemented. It f
 		- `pages` - application pages
 		- `redux` - redux reducers, actions, sagas. All data managment logic is replaced with GraphQL in this repository
 - The project uses SCSS and styled-components for the overall look of the frontend part of the app. [Example of the cart dropdown component](https://github.com/obleey/crwn-clothing-graph-ql/blob/main/src/components/cart-dropdown/cart-dropdown.styles.scss)
+- GraphQL logic is found [here](https://github.com/obleey/crwn-clothing-graph-ql/tree/main/src/graphql)
 - All separate pages are found [here](https://github.com/obleey/crwn-clothing-graph-ql/tree/main/src/pages). The app uses React-router-dom for page navigation
 
 ## If I had more time I would change this  
