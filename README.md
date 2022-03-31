@@ -4,6 +4,7 @@
 [View it Live](https://crown-clthing.herokuapp.com/)
 
 Clothing shop made using React & firebase with Stripe payments implemented. It features Authentication with Google account , Authentication with email & password, Persistant data with local storage, Asynchronous events handling, Paypal payments with Stripe, Performance improvement with lazy loading.
+
 **Deployment**: _Heroku_  
 **Design**: _Sass & Styled Components_  
 **Authentication**: _Firebase auth_  
